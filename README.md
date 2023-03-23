@@ -3,4 +3,4 @@
 <br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bill-GD&theme=dark&include_all_commits=false&count_private=false&layout=compact&langs_count=10&bg_color=00000000)
 <br>
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=BillGD&theme=dark&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
+[![BillGD's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=BillGD&theme=dark&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
