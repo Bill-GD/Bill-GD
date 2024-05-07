@@ -5,5 +5,3 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bill-GD&theme=vision-friendly-dark&include_all_commits=false&count_private=false&layout=compact&langs_count=8&bg_color=00000000)
 <br>
 ![BillGD's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=BillGD&hide_title=true&is_including_today=true&theme=vision-friendly-dark&bg_color=00000000&v=2)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
