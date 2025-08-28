@@ -20,4 +20,5 @@ Svelte/SvelteKit and TailwindCSS for frontend.
 - Frontend frameworks: Svelte, TailwindCSS, Bootstrap (open to Vue and Nuxt)
 - Backend frameworks: NestJS/ExpressJS, Flutter
 - Database: MySQL (open to NoSQL like Firebase...)
+- ORM: Drizzle, TypeORM
 - VCS: Git/GitHub
