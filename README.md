@@ -13,11 +13,11 @@ For mobile development, I chose Flutter instead of React Native and Java. Althou
 For specific tech/framework, right now I'm focusing on learning and using ExpressJS/NestJS and MySQL for backend,
 Svelte/SvelteKit and TailwindCSS for frontend.
 
-### Current tech:
+### Current tech stack:
 
 - Programming languages: JavaScript/TypeScript, Dart (open to Kotlin)
 - Other languages: HTML, Markdown, CSS
 - Frontend frameworks: Svelte, TailwindCSS, Bootstrap (open to Vue and Nuxt)
-- Backend frameworks: NestJS/ExpressJS
+- Backend frameworks: NestJS/ExpressJS, Flutter
 - Database: MySQL (open to NoSQL like Firebase...)
 - VCS: Git/GitHub
