@@ -1,4 +1,4 @@
-## Hi, i'm An.
+## Hi, I'm An.
 
 The full name is Nguyễn Vĩnh An (or Nguyen Vinh An).  
 I'm 22 (at the time of writing) and currently is a final-year university student majoring in Computer Science.  
