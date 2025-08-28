@@ -2,7 +2,7 @@
 
 The full name is Nguyễn Vĩnh An (or Nguyen Vinh An).  
 I'm 22 (at the time of writing) and currently is a final-year university student majoring in Computer Science.  
-My usual online username is `billgd` or just `bill`, hence the GitHub username (please don't ask why I made it, it's embarrasing 🙂).  
+My usual online username is `billgd`, `bill`, hence the GitHub username (please don't ask why I made it, it's embarrasing 🙂).  
 
 I started learning coding by myself (outside of school) in 11th grade (2019-2020) with C++ but I gradually moved away from it.
 In university, I started learning JavaScript, Dart, Python, Java, PHP.
