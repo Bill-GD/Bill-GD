@@ -17,8 +17,8 @@ Svelte/SvelteKit and TailwindCSS for frontend.
 
 - Programming languages: JavaScript/TypeScript, Dart (open to Kotlin)
 - Other languages: HTML, Markdown, CSS
-- Frontend frameworks: Svelte, TailwindCSS, Bootstrap (open to Vue and Nuxt)
-- Backend frameworks: NestJS/ExpressJS, Flutter
+- Frontend frameworks: Svelte, TailwindCSS, Bootstrap, Flutter (open to Vue and Nuxt)
+- Backend frameworks: NestJS/ExpressJS
 - Database: MySQL (open to NoSQL like Firebase...)
 - ORM: Drizzle, TypeORM
 - VCS: Git/GitHub
