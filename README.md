@@ -20,9 +20,11 @@ Svelte/SvelteKit and TailwindCSS for frontend.
 ![Static Badge](https://img.shields.io/badge/-JS-_?style=plastic&logo=javascript&color=7b6d04)
 ![Static Badge](https://img.shields.io/badge/-TS-_?style=plastic&logo=typescript&color=3178C6&logoColor=ffffff)
 ![Static Badge](https://img.shields.io/badge/-Dart-_?style=plastic&logo=dart&color=0175C2)
+
 ![Static Badge](https://img.shields.io/badge/-TailwindCSS-_?style=plastic&logo=tailwindcss&color=006080)
 ![Static Badge](https://img.shields.io/badge/-Svelte%205-_?style=plastic&logo=svelte&color=993600)
 ![Static Badge](https://img.shields.io/badge/-Flutter-_?style=plastic&logo=flutter&color=02569B)
+
 ![Static Badge](https://img.shields.io/badge/-ExpressJS-_?style=plastic&logo=express&color=202020)
 ![Static Badge](https://img.shields.io/badge/-NestJS-_?style=plastic&logo=nestjs&color=f31246)
 ![Static Badge](https://img.shields.io/badge/-MySQL-_?style=plastic&logo=mysql&logoColor=ffffff&color=4479A1)
