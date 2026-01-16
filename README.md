@@ -31,10 +31,10 @@ Svelte/SvelteKit and TailwindCSS for frontend.
 ![Static Badge](https://img.shields.io/badge/-Drizzle-_?style=plastic&logo=drizzle&logoColor=C5F74F&color=233102)
 ![Static Badge](https://img.shields.io/badge/-Git-_?style=plastic&logo=git&logoColor=F05032&color=202020)
 
-- Programming languages: JavaScript/TypeScript, Dart (open to Kotlin)
-- Other languages: HTML, Markdown, CSS
-- Frontend frameworks: Svelte, TailwindCSS, Bootstrap, Flutter (open to Vue and Nuxt)
+- Programming languages: JavaScript/TypeScript, Dart (open to Kotlin, trying Go)
+- Other languages: HTML, CSS, Markdown
+- Frontend frameworks: Svelte/SvelteKit, TailwindCSS, Bootstrap, Flutter (open to Vue and Nuxt)
 - Backend frameworks: NestJS/ExpressJS
-- Database: MySQL (open to NoSQL like Firebase...)
+- Database: MySQL (open to NoSQL like Firebase or PostgresQL...)
 - ORM: Drizzle, TypeORM
 - VCS: Git/GitHub
